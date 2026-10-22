@@ -18,7 +18,7 @@
 
 ## About Me
 
-- Student of **Fintech**
+- <h1>Student of **Fintech**<h1>
 
 ---
 
