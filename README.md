@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Fintech-Student-22c55e?style=flat-square&labelColor=050805" alt="Fintech student" />
   <img src="https://img.shields.io/badge/Data_%26_ML-Learning-22c55e?style=flat-square&labelColor=050805" alt="Learning data science and machine learning" />
   <img src="https://img.shields.io/badge/Pakistan-Based-22c55e?style=flat-square&labelColor=050805" alt="Based in Pakistan" />
+  <p><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
 </div>
 
 ## About Me
@@ -51,12 +52,12 @@ scikit-learn
 
 Interested in how people think, how data can mislead, and how models support decisions.
 
-## Connect
+## 🌐 Connect with me
 
-<a href="mailto:musabmehmood83@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-22c55e?style=for-the-badge&labelColor=050805" alt="Email Musab Mehmood" /></a>
-<a href="https://www.linkedin.com/in/musab-mehmood-bb7555376"><img src="https://img.shields.io/badge/LinkedIn-Connect-22c55e?style=for-the-badge&labelColor=050805" alt="Connect with Musab Mehmood on LinkedIn" /></a>
+<a href="mailto:musabmehmood83@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="✉ Email Musab Mehmood" /></a>
+<a href="https://www.linkedin.com/in/musab-mehmood-bb7555376"><img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-0077B5?style=for-the-badge" alt="🔗 Musab Mehmood on LinkedIn" /></a>
 
-[musabmehmood83@gmail.com](mailto:musabmehmood83@gmail.com) · [LinkedIn](https://www.linkedin.com/in/musab-mehmood-bb7555376)
+📧 [musabmehmood83@gmail.com](mailto:musabmehmood83@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/musab-mehmood-bb7555376)
 
 ---
 
