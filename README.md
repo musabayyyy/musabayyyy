@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Reader in a quiet night setting" />
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
@@ -6,7 +8,6 @@
   <img src="https://img.shields.io/badge/Fintech-Student-22c55e?style=flat-square&labelColor=050805" alt="Fintech student" />
   <img src="https://img.shields.io/badge/Data_%26_ML-Learning-22c55e?style=flat-square&labelColor=050805" alt="Learning data science and machine learning" />
   <img src="https://img.shields.io/badge/Pakistan-Based-22c55e?style=flat-square&labelColor=050805" alt="Based in Pakistan" />
-  <p><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
 </div>
 
 ## About Me
