@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Reader in a quiet night setting" />
+  <img src="[https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/profile-banner.gif](https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/profile-banner.gif)" width="100%" alt="Animated fintech and machine learning study room" />
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
   <h2>Hi I'm Musab Mehmood👋</h2>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
