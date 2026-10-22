@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,bootstrap,numpy,pandas,matplotlib,sklearn&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,bootstrap,numpy,pandas,sklearn&theme=dark" alt="skills" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Stata-1a5f91?style=for-the-badge&logo=stata&logoColor=white" alt="stata" />
 </div>
