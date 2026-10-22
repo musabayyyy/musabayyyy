@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/name.svg" width="100%" alt="Musab Mehmood" />
+  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood emerging from dots" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ## About Me
 
- <h1 align='center'>Student of Fintech<h1>
+ <h1 align='center'>Student of Fintech</h1>
 
 ---
 
@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a6b,50:1a0533,100:000000&height=110&section=footer" width="100%" alt="footer" />
+  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/observatory.svg" width="100%" alt="Contribution Observatory: actual GitHub activity" />
 </div>
