@@ -1,13 +1,12 @@
 import os, json, urllib.request, pathlib
 from html import escape
 query = 'query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount color}}}}}}'
-body = json.dumps({'query':query,'variables':{'login':'musabmehmood83-cyber'}}).encode()
+body = json.dumps({'query':query,'variables':{'login':'musabayyyy'}}).encode()
 req = urllib.request.Request('https://api.github.com/graphql', data=body, headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Content-Type':'application/json'})
 with urllib.request.urlopen(req, timeout=45) as response:
     data = json.load(response)
 if data.get('errors'):
-    raise RuntimeError(data['errors'])
-calendar = data['data']['user']['contributionsCollection']['contributionCalendar']
+    raise RuntimeError(data['errors'])\ncalendar = data['data']['user']['contributionsCollection']['contributionCalendar']
 parts = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280"><rect width="800" height="280" rx="12" fill="#020805"/>']
 for c, week in enumerate(calendar['weeks']):
     for r, day in enumerate(week['contributionDays']):

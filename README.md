@@ -1,10 +1,9 @@
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=musabayyyy&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/profile-banner.gif" width="100%" alt="Animated fintech and machine learning study room" />
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
+  <img src="https://raw.githubusercontent.com/musabayyyy/musabayyyy/main/assets/profile-banner.gif" width="100%" alt="Animated fintech and machine learning study room" />
+  <img src="https://raw.githubusercontent.com/musabayyyy/musabayyyy/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
   <h2>Hi I'm Musab Mehmood👋</h2>
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
   <p>Fintech student exploring finance, statistics and machine learning.</p>
   <img src="https://img.shields.io/badge/Fintech-Student-22c55e?style=flat-square&labelColor=050805" alt="Fintech student" />
   <img src="https://img.shields.io/badge/Data_%26_ML-Learning-22c55e?style=flat-square&labelColor=050805" alt="Learning data science and machine learning" />
@@ -64,5 +63,5 @@ Interested in how people think, how data can mislead, and how models support dec
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/observatory.svg" width="100%" alt="Contribution Observatory: GitHub activity" />
+<img src="https://raw.githubusercontent.com/musabayyyy/musabayyyy/main/assets/observatory.svg" width="100%" alt="Contribution Observatory: GitHub activity" />
 </div>
