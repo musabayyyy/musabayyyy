@@ -1,12 +1,12 @@
-<!-- Animated waving banner -->
+<!-- Dark banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Musab%20Mehmood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Econometrics%20%7C%20Data%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:3b0a6b&height=230&section=header&text=Musab%20Mehmood&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=40&desc=Econometrics%20%7C%20Data%20%7C%20Machine%20Learning&descAlignY=62&descSize=18&descColor=22d3ee" width="100%" alt="banner" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/musabmehmood83-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Econometrics+Student+%F0%9F%93%8A;Learning+Data+Science+%26+ML+%F0%9F%A4%96;Building+projects+every+day+%F0%9F%9A%80;Open+to+internships+%F0%9F%92%BC" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Econometrics+Student;Learning+Data+Science+and+ML;Building+projects+every+day;Open+to+internships" alt="typing animation" />
   </a>
 </div>
 
@@ -14,69 +14,42 @@
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/musabmehmood83-cyber?style=for-the-badge&logo=github&color=8a2be2" />
-  <img src="https://img.shields.io/badge/Pakistan-01411C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Econometrics-Student-7c3aed?style=for-the-badge&labelColor=0a0a12" alt="econometrics" />
+  <img src="https://img.shields.io/badge/Data%20%26%20ML-Learning-22d3ee?style=for-the-badge&labelColor=0a0a12" alt="data and ml" />
+  <img src="https://img.shields.io/badge/Pakistan-Based-a855f7?style=for-the-badge&labelColor=0a0a12" alt="pakistan" />
+</div>
+
+<br/>
+
+## About Me
+
+- Student of **Fintech**
+- Passionate about **data analysis, statistics and machine learning, finance**
+  
+- Goal: build my own AI projects and models
+- GitHub: **musabmehmood83-cyber**
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,bootstrap&theme=dark" alt="skills" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stata-1a5f91?style=for-the-badge&logo=stata&logoColor=white" alt="stata" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-
-- 📈 Passionate about **data analysis, statistics & machine learning, AI, finance**
-- 🌱 Currently learning: **Python, Pandas, Statistics, ML**
-- 🎯 Goal: build my own AI projects & land a data internship
-- 📫 GitHub: **musabmehmood83-cyber**
-
----
-
-## 🛠️ Tech Stack
+## 3D Contribution City
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,sqlite,pandas,numpy,sklearn,tensorflow&theme=dark" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=musabmehmood83-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=musabmehmood83-cyber&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabmehmood83-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musabmehmood83-cyber&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</div>
-
----
-
-## 🏙️ 3D Contribution City
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musabmehmood83-cyber&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
 </div>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a6b,50:1a0533,100:000000&height=110&section=footer" width="100%" alt="footer" />
 </div>
