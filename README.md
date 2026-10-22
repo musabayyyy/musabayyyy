@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/musabmehmood83-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Econometrics+Student;Learning+Data+Science+and+ML;Building+projects+every+day;Open+to+internships" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Econometrics+Student;Learning+Data+Science+and+ML;Building+projects+every+day" alt="typing animation" />
   </a>
 </div>
 
@@ -26,8 +26,7 @@
 - Student of **Fintech**
 - Passionate about **data analysis, statistics and machine learning, finance**
   
-- Goal: build my own AI projects and models
-- GitHub: **musabmehmood83-cyber**
+
 
 ---
 
