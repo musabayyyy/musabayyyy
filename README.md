@@ -18,7 +18,7 @@
 
 ## About Me
 
-- <h1>Student of **Fintech**<h1>
+ <h1>Student of Fintech<h1>
 
 ---
 
