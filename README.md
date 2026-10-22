@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Reader in a quiet night setting" />
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
-  <h2>Musab Mehmood</h2>
+  <h2>Hi i'm Musab Mehmood👋</h2>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
   <p>Fintech student exploring finance, statistics and machine learning.</p>
   <img src="https://img.shields.io/badge/Fintech-Student-22c55e?style=flat-square&labelColor=050805" alt="Fintech student" />
