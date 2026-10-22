@@ -25,8 +25,17 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,bootstrap,numpy,pandas,sklearn&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,bootstrap&theme=dark" alt="HTML, CSS, Python, MySQL and Bootstrap" />
   <br/><br/>
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="56" height="56" alt="NumPy logo" /><br/>NumPy</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="56" height="56" alt="pandas logo" /><br/>pandas</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="56" height="56" alt="Matplotlib logo" /><br/>Matplotlib</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="56" height="56" alt="scikit-learn logo" /><br/>scikit-learn</td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://img.shields.io/badge/Stata-1a5f91?style=for-the-badge&logo=stata&logoColor=white" alt="stata" />
 </div>
 
