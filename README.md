@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Reader in a quiet night setting" />
   <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/thoughtscape.svg" width="100%" alt="Thoughtscape: Musab Mehmood" />
-  <h2>Hi i'm Musab Mehmood👋</h2>
+  <h2>Musab Mehmood</h2>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=musabmehmood83-cyber&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views counter" /></p>
   <p>Fintech student exploring finance, statistics and machine learning.</p>
   <img src="https://img.shields.io/badge/Fintech-Student-22c55e?style=flat-square&labelColor=050805" alt="Fintech student" />
@@ -14,6 +14,13 @@
 ## About Me
 
 Student of Fintech.
+
+## 🌐 Connect with me
+
+<a href="mailto:musabmehmood83@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="✉ Email Musab Mehmood" /></a>
+<a href="https://www.linkedin.com/in/musab-mehmood-bb7555376"><img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-0077B5?style=for-the-badge" alt="🔗 Musab Mehmood on LinkedIn" /></a>
+
+📧 [musabmehmood83@gmail.com](mailto:musabmehmood83@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/musab-mehmood-bb7555376)
 
 ## Current Focus
 
@@ -53,13 +60,6 @@ scikit-learn
 ## Reading & Ideas
 
 Interested in how people think, how data can mislead, and how models support decisions.
-
-## 🌐 Connect with me
-
-<a href="mailto:musabmehmood83@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="✉ Email Musab Mehmood" /></a>
-<a href="https://www.linkedin.com/in/musab-mehmood-bb7555376"><img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-0077B5?style=for-the-badge" alt="🔗 Musab Mehmood on LinkedIn" /></a>
-
-📧 [musabmehmood83@gmail.com](mailto:musabmehmood83@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/musab-mehmood-bb7555376)
 
 ---
 
