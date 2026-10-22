@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Musab Mehmood" />
+  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/banner.svg" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/musabmehmood83-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Fintech+Student;Learning+Data+Science+and+ML;Building+projects+every+day" alt="typing animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/musabmehmood83-cyber/musabmehmood83-cyber/main/assets/name.svg" width="100%" alt="Musab Mehmood" />
 </div>
 
 <br/>
@@ -21,7 +19,6 @@
 ## About Me
 
 - Student of **Fintech**
-- Passionate about **data analysis, statistics, machine learning and finance**
 
 ---
 
